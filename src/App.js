@@ -9,7 +9,7 @@ import Ifram from './components/ifram/Ifram';
 import Navbar from './components/navbar/Navbar';
 import Projects from './components/projects/Projects';
 import Services from './components/services/Services';
-import Testimonial from './components/slide/Testimonial';
+// import Testimonial from './components/slide/Testimonial';
 import Team from './components/team/Team';
 // import Other from './components/other/Other';
 
@@ -27,7 +27,7 @@ function App() {
       <Customer />
       <Ifram />
       <Footer />
-      <Testimonial />
+      {/* <Testimonial /> */}
       {/* <Other /> */}
      
     </div>
