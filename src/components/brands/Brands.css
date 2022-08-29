@@ -1,0 +1,17 @@
+.b-wrapper{
+    display: flex;
+    flex-direction: row;  
+    gap: 9rem;
+    height: 50vh;
+}
+.b-wrapper img{
+    width: 10%;
+    height: 90px;
+    transform: translateY(170px);
+    cursor: pointer;
+}
+
+.brands{
+    height: 65vh;
+
+}

@@ -1,0 +1,48 @@
+video{
+    width: 50%;
+    height: 50%;
+    margin-left: 20rem;
+    transform: translateY(-200px);
+}
+
+
+
+
+.p-top img{
+    box-shadow: 3px 3px 15px rgb(241, 241, 241);
+    border: none;
+    width: 50%;
+    margin-left: 20rem;
+    transform: translateY(-180px);
+}
+
+
+.projects{
+    margin-top: 20rem;
+}
+.p-num{
+    margin-top: -19rem;
+    margin-bottom: 5rem;
+    color: #fff;
+    font-weight: bold;
+
+}
+.p-num p{
+    margin-left: 4rem;
+}
+.p-num .pro-5{
+    transform: translateX(-20px);
+}
+.last-image img{
+    transform: translateY(-460px);
+    margin-left: 30rem;
+}
+.count{
+    font-size: 25px;
+}
+
+
+
+
+
+
